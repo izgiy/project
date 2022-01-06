@@ -1,0 +1,25 @@
+body {
+    background-repeat: no-repeat;
+    font-size: 24px;
+    font-family: 'Rock 3D', cursive;
+    font-family: 'Shizuru', cursive;
+  }
+.cat_w{
+  width: 900px; 
+  height: 700px;
+}
+a{text-decoration: none;}
+.cat_b{margin-left: 333px;}
+.hello{color:rgb(0, 5, 70);
+  margin-left: 70px;}
+  p{ font-size: 60px;
+    }
+    .GTA{ width: 1000px; 
+      height: 700px;}
+      .GTA_S{margin-left: 70px;}
+      .back{margin-left: 110px;}
+.book{ margin-left: 700px;}
+.bo{font-size: 24px;}
+.qwe{color:rgb(25, 0, 253);
+  background-repeat: no-repeat
+;}
